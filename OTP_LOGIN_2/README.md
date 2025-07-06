@@ -1,7 +1,35 @@
-Deploy link : https://loginotp24.netlify.app/
+# 🔐 OTP Input Component – React + Tailwind CSS
+
+This is a user-friendly OTP login interface with 4 input boxes, built using **ReactJS** and styled with **Tailwind CSS**. It mimics the behavior of OTP input seen in mobile apps.
+
+---
+
+## 🖥️ Live Demo
+
+🔗 [https://loginotp24.netlify.app](https://loginotp24.netlify.app)
+
+---
+
+## 🛠 Features
+
+- 🔢 4 separate input boxes for OTP
+- ⏩ Auto-focus to next field upon input
+- ⬅️➡️ Arrow key & backspace navigation
+- ✅ OTP validation logic (checks if all 4 digits are entered)
+- 📱 Responsive layout with clean Tailwind styling
+
+---
+
+## 💡 Concepts Practiced
+
+- Controlled components in React
+- `useRef` for direct DOM access
+- `useEffect` for initial input focus
+- Keyboard navigation & form UX behavior
+
+![image](https://github.com/user-attachments/assets/b111dac3-156f-44ee-aa27-8c1b0c4f0ffe)
 
 ...............................................
-
 ## Notes
 
 const [inp,setInp] = useState([]);
