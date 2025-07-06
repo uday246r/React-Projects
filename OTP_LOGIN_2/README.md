@@ -1,4 +1,4 @@
-
+Deploy link : https://loginotp24.netlify.app/
 
 ...............................................
 
