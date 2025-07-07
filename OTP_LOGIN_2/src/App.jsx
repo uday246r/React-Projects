@@ -52,7 +52,7 @@ function App() {
             ref = {(val)=>(refArr.current[index]=val)}
             onChange={(e)=> handleInput(e,index)}
             onKeyDown={(e)=>handleOnKeyDown(e,index)}
-            className="bg-white text-black text-center m-1 p-4 text-xl w-full m-2 max-size-fit"/>
+            className="bg-white text-black text-center m-1 p-4 text-xl w-full max-size-fit"/>
           ))
         }
         </div>
