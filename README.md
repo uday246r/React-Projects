@@ -6,6 +6,18 @@ This repository contains small React applications built to learn and practice Re
 
 ---
 
+## 🚀 Live Demos
+
+- 🎂 **Birthday Wish Card**  
+  🔗 https://birthdaycard24.netlify.app/
+
+- 🔐 **OTP Login**  
+  🔗 https://otp246login.netlify.app/
+
+- 🔐 **OTP Login (Version 2)**  
+  🔗 https://loginotp24.netlify.app
+
+
 ## 📦 Projects Included
 
 | Folder | Description |
